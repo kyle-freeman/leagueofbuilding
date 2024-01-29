@@ -1,0 +1,32 @@
+namespace Data
+{
+  enum StatType
+  {
+    AttackDamage,
+    AttackSpeed,
+    AbilityPower,
+    AbilityHaste,
+    Armor,
+    MagicResist,
+    MovementSpeed,
+    FlatArmorPen,
+    FlatMRPen,
+    PercentArmorPen,
+    PrecentMRPen,
+    CritChance,
+    CritDamage,
+    Health,
+    HealthRegen,
+    HealAndShieldPower,
+    Tenacity,
+    Mana,
+    ManaRegen,
+    LifeSteal,
+    PhysicalVamp,
+    SpellVamp,
+    OmniVamp,
+    Level,
+    Energy,
+    EnergyRegeneration
+  }
+}
